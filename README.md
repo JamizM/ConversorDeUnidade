@@ -9,3 +9,7 @@ Aprender mais sobre as linguagens que serão usadas como: <b>HTML, CSS, JavaScri
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+necessário ter este layout
+<div>
+  ![image](https://github.com/JamizM/ConversorDeUnidade/assets/133376282/41bf26f9-37cb-4cc8-8980-02df2e5ad4b1)
+</div>
