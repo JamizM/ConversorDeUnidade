@@ -14,12 +14,12 @@
         <div class="conversor-box-conteiner">
             <div class="conversor-box">
                 <label for="digitarValor" class="quantity-Label">Digite a quantidade:</label>
-                <input type="text" placeholder="0" class="quantity-Input">
+                <input type="number" placeholder="0">
                 <label for="conversor">De:</label>
                 <select id="conversor">
                     <option>Selecione:</option>
                     <option>quilômetro(Km)</option>
-                    <option>Centímetros(Cm)</option>
+                    <option><span id="centimetros">Centímetros(Cm)</span></option>
                     <option>Milímetros(Mm)</option>
                 </select>
             </div>
@@ -36,8 +36,8 @@
                 <button>Converter</button>
             </div>
             <div class="result-convert">
-                <label for="resultado">Resultado:</label>
-                <input type="text">
+                <label for="resultado" id="resultado">Resultado:</label>
+                <input type="number">
             </div>
         </div>
     </div>
