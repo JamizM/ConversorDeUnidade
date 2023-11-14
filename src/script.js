@@ -1,10 +1,10 @@
-function converter() {
-    // Obter o valor em centímetros
-    var centimetros = parseFloat(document.getElementById('centimetros').value);
-
-    // Converter para quilômetros
-    var quilometros = centimetros / 100000;
-
-    // Exibir o resultado
-    document.getElementById('resultado').innerHTML = centimetros
+function calcular(){
+    var input_ele = document.getElementById('#');
+    var add_btn = document.getElementById('#');
+    var sel_opts = document.getElementById('#');
+    var input_val;
 }
+
+//fazer if para cada escolha que o usuário fazer 
+//fazer .value()
+//
